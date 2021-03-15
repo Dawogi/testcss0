@@ -1,12 +1,11 @@
 h3,
-p {
+span {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	color: #401d15;
 	margin: 0px;
 }
-
-.mainbk {
+.main_bk {
 	background-color: #D66047;
 	padding-bottom: 5px;
 }
@@ -17,4 +16,8 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+}
+
+.time_white {
+	color: white;
 }
